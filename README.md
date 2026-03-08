@@ -22,7 +22,5 @@ Confusion matrix and performance metrics available in the notebook.
 ## Future Improvements
 
 Implement data augmentation to improve model robustness.
-
 Deploy as a web application or API for real-time tumor detection.
-
 Experiment with pretrained CNN architectures (ResNet, VGG, EfficientNet) for higher accuracy.
