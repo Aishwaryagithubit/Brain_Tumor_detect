@@ -9,7 +9,7 @@ Early detection can help doctors **diagnose tumors faster and more accurately**,
 - Utilizes a **CNN architecture** for feature extraction and accurate prediction.
 - Provides **visualization of predictions** and model performance metrics.
 - Can be further expanded for **real-time diagnostic applications**.
-- 
+  
 ## Data Source:
 https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
