@@ -1,5 +1,6 @@
 # Brain_Tumor_detect
 Brain Tumor Detection using Convolutional Neural Networks 
+
 ## Project Overview
 This project aims to **automate the early detection of brain tumors** from MRI scans using **Convolutional Neural Networks (CNNs)**.  
 Early detection can help doctors **diagnose tumors faster and more accurately**, potentially improving patient outcomes.
@@ -15,9 +16,9 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 
 ## Results
 
-High accuracy in classifying MRI images as tumor or no tumor.
+** High accuracy in classifying MRI images as tumor or no tumor.
 
-Confusion matrix and performance metrics available in the notebook.
+** Confusion matrix and performance metrics available in the notebook.
 
 ## Future Improvements
 
